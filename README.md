@@ -1,0 +1,12 @@
+# Control de Actividades
+Proyecto desarrollado como parte del primer examen parcial.
+## Objetivo
+Preparar la estructura inicial de un proyecto utilizando Python, Git y GitHub.
+## Herramientas
+- Visual Studio Code
+- Python
+- Git
+- GitHub
+- Terminal de VsCode o dispositivo
+## Autor
+ Damián Reynoso Nesme
