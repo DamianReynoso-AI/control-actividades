@@ -1,0 +1,13 @@
+parte 4
+CONCEPTOS
+1- Github es donde se guardan todos los repositorios pero es dentro de una web ahi hay repositorios de todas la personas, es como una nube de repositorios, mientras que Git manipula esos repositorios de manera local dentro del aparato.
+
+2. como su nombre lo dice le da instrucciones a git de que ignore ciertas cosas, para que no las tengas que estar haciendo un add y proteges info.
+
+3- porque es un entorno virtual, sirve para trabajar en tu propia maquina ademas de que es muy facil agregarlo y luego desactivarlo
+
+4- justamente le dice a la persona que va a trabajar con el proyecto que versiones de las bibliotecas necesita instalar o de las funcionalidades que vayas a usar.
+
+5- que el primero seleccionas que archivos modificados quieres subir en tu commit, el commit despues lo que hace es hacer como u registro de los cambios hechos, y el push envia los cambios hechos al repo
+
+6- porque no es necesario hacer un push despues del commit, el push envia todos los commits hechos no solo uno, por eso se pueden hacer varios.

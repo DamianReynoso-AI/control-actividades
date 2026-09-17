@@ -1,0 +1,11 @@
+1- analiza
+el git status te dice si hay modificaciones y en donde
+git add en este cado del README.md sirve para que se guarden los cambios hechos al archivo modificado y que ya no aparezca en git status como modified.
+git commit: documenta el cambio hecho mediante una descripcion
+git push: sirve para enviar los cambios hechos al repo
+
+2- identificar que falta
+    A- Falta un commit que documente los cambios hechos 
+    B- Git clone para clonar el repositorio de github hacia la terminal
+    C- Git pull para traer posible cambios hechos al repo original
+    

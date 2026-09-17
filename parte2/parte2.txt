@@ -1,0 +1,28 @@
+Parte 2
+1- FLUJO COLABORATIVO
+R: 
+    1-FORK: creas una copia del repo original en tu cuenta.
+    2-Clone: Hazes un git clone para llevarte el repo a la terminal
+    3-Branch: Desde tu repositorio clonado, haces una rama para trabajar
+    4-Modificar archivos: Modificas los archivos que necesites o creas nuevos.
+    5-Add: Un git add es para guardar los cambios hechos
+    5-Commit: haces un commit para registrar los cambios que hiciste en tu repo
+    6-Push: haces un git push para enviar los cambios que hiciste
+    7-pull request: haces un pull request al dueño del repositorio original
+    8-review: antes de aceptarlo el dueño te puede sugerir cambios o mejorar imprevistos. si todo esta bien acepta 
+    9-Merge: Unes la tu rama con la rama principal
+
+2-FORK Y Clone
+R: La afirmacion es incorrecta, el que crea una copia del proyecto dentro de mi propia cuenta es el fork. el clone lo que hace es que lo podamos trabajar desde vscode, osea que lo clona hacia la terminal de archivos.
+
+3- Pull request:
+debes de hacer un pull request, esto para que se vean los cambios que tu hiciste, despues de esto un merge, para combinar tu rama con main.
+
+4- Request changes
+primero revisas que paso y que cambios debes de hacer. No es necesario hacer otro pull request y si haces push nuevamente los y el push envia los cambios hechos.
+
+5- Merge y repositorio local
+porque no estaban sincronizados, primero se necesita hacer un git pull para traer todos los cambios hechos en la rama principal y ya despues volvemos a trabajar, con el git pull se sincronizan.
+
+6- Sync fork
+el sync fork es para conectar dos 2 forks o mas osea repositorios remotos, este se usa desde github en cambio el git pull se usa desde la terminal y es para sincronizar tu repo con el original.
